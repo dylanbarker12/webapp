@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre_",
+				"pre_save_cart_receiver"
+			],
+			[
+				"uniqu",
+				"unique_slug_generator"
+			],
+			[
+				"get_ob",
+				"get_object_or_404"
+			],
+			[
+				"Produc",
+				"ProductAdmin"
+			],
+			[
+				"email",
+				"email"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ecommerce/views.py",
+			"settings":
+			{
+				"buffer_size": 3908,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 3427,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ecommerce/settings.py",
+			"settings":
+			{
+				"buffer_size": 3466,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static_cdn/static_root/css/main.css",
+			"settings":
+			{
+				"buffer_size": 25,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/home_page.html",
+			"settings":
+			{
+				"buffer_size": 2650,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/base/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1926,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/base/css.html",
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/list.html",
+			"settings":
+			{
+				"buffer_size": 401,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/detail.html",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/featured-detail.html",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/snippets/card.html",
+			"settings":
+			{
+				"buffer_size": 619,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dylan.barker/Dev/ecommerce"
+	],
+	"file_history":
+	[
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/contact/view.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/ecommerce/settings.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/templates/carts/home.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/ecommerce/urls.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/ecommerce/views.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/admin.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/products/featured-detail.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/home_page.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/base/navbar.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/views.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/models.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/base.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/products/detail.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/views.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/urls.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/templates/carts/snippets/remove-product.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/templates/carts/checkout.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/carts/templates/carts/checkout-done.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/models.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/urls.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/products/list.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/search/templates/search/view.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/tags/admin.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/tags/models.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/search/views.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/search/urls.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/tags/shell_commands.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/auth/login.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/ecommerce/forms.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/bootstrap/example.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/base/css.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/base/js.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/utils.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/products/snippets/card.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/admin.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/static_my_proj/css/main.css",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/templates/auth/register.html",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/products/templates/utils.py",
+		"/C/Users/dylan.barker/Dev/ecommerce/src/ecommerce/__init__.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cart",
+			"sha",
+			"e5",
+			"Hello World!",
+			"'\n",
+			"method_dict"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ecommerce/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								544,
+								544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/ecommerce/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static_cdn/static_root/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/home_page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/base/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1926,
+								1926
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/base/css.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/products/templates/products/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/products/templates/products/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/products/templates/products/featured-detail.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/products/templates/products/snippets/card.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
